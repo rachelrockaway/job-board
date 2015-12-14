@@ -1,3 +1,3 @@
 == README
 
-This is a Job Board app tutorial that uses Ruby 4 to create a job board.
+This is a RailsBridge Job Board app tutorial that uses Ruby 4 to create a job board.
